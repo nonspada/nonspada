@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Patricio, self-taught Backend Developer 😎
+
+- 🌱 I’m currently learning Go 🐹, Docker 🐋 and AWS/GCP ☁
 <!--
 **nonspada/nonspada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
