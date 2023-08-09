@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Patricio, self-taught Backend Developer 😎
+I'm Patricio, self-taught FullStack Developer 😎
 
 - 🌱 I’m currently learning Go 🐹, Docker 🐋 and AWS/GCP ☁
 <!--
