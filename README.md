@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Patricio Aliste, student at CIISA Technological Institute and self-taught FullStack Developer.
-\
-I’m currently learning C, data structures and algorithms.
+I'm **Patricio Aliste**, student at CIISA Technological Institute and self-taught FullStack Developer.
+
+> I’m currently learning C, data structures and algorithms.
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,postgres,docker,aws,gcp)](https://skillicons.dev)
 <!--
