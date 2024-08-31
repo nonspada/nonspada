@@ -2,12 +2,14 @@
 
 I'm **Patricio Aliste**, student at CIISA Technological Institute and self-taught FullStack Developer.
 
-> I’m currently learning C, data structures and algorithms.
+> I’m currently learning Java, PL/SQL, data structures and algorithms.
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,postgres,docker,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,nodejs,postgres,debian,docker,aws,gcp)](https://skillicons.dev) 
+
+<!--[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,nodejs,postgres,debian,docker,aws,gcp&perline=5)](https://skillicons.dev)--!>
 <!--
 **nonspada/nonspada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,docker,aws,gcp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,nodejs,postgres,debian,docker,aws,gcp&perline=5)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
