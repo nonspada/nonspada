@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Patricio Aliste**, student at [CIISA Technological Institute](https://ipss.cl/) and self-taught FullStack Developer.
+I'm **Patricio Aliste**, student at CIISA Technological Institute and self-taught FullStack Developer.
 
 - I’m currently learning Java, PL/SQL, Spring Framework & Spring Boot.
 
