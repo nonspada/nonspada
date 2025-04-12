@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm **Patricio Aliste**, student at CIISA Technological Institute and self-taught FullStack Developer.
+<!-- I'm **Patricio Aliste**, student at CIISA Technological Institute and self-taught FullStack Developer.-->
+I'm **Patricio Aliste**, student at San Sebastián Professional Institute. I'm self-taught FullStack Developer & [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ca645567-350f-4156-85fd-b313ff5a7f35/public_url).
+- I’m currently learning about API Security, OOP, CI/CD and Software Architecture.
 
-- I’m currently learning Java, PL/SQL, Spring Framework & Spring Boot.
 
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,react,tailwind,nodejs,postgres,debian,docker,aws,gcp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,react,tailwind,nodejs,postgres,debian,redhat,docker,aws,gcp)](https://skillicons.dev) 
 
 
 <!--
